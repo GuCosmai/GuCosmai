@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- [🎧 DrumPad personalizado](https://GuCosmai.github.io/drumpad/) – Projeto em JavaScript manipulando o DOM  
+- [🎧 DrumPad personalizado](https://gucosmai.github.io/CosPad/) – Projeto em JavaScript manipulando o DOM  
 - (adicione outros repositórios ou links de projetos)
 
 ---
