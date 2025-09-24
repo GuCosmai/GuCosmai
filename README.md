@@ -1,3 +1,4 @@
+<div aling="center">
 # 👋 Olá, eu sou Gustavo Hammell Cosmai
 
 💻 **Estudante de Desenvolvimento de Sistemas** – ETEC Centro Paula Souza (2º semestre – EAD)  
@@ -32,3 +33,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/gustavo-hammell-cosmai-079ab1286/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.cosmai@outlook.com)
 
+</div>
