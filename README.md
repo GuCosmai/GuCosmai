@@ -16,14 +16,14 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- [🎧 DrumPad personalizado](https://gustavohcosmai.github.io/drumpad/) – Projeto em JavaScript manipulando o DOM  
+- [🎧 DrumPad personalizado](https://GuCosmai.github.io/drumpad/) – Projeto em JavaScript manipulando o DOM  
 - (adicione outros repositórios ou links de projetos)
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavohcosmai&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohcosmai&layout=compact&theme=tokyonight)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuCosmai&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuCosmai&layout=compact&theme=tokyonight)
 
 ---
 
