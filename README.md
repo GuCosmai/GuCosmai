@@ -28,5 +28,5 @@
 ---
 
 ## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/gustavo-hammell-cosmai-079ab1286/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gustavo.cosmai@outlook.com)
