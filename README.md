@@ -1,5 +1,5 @@
 <div aling="center">
- 👋 Olá, eu sou Gustavo Hammell Cosmai
+ ## 👋 Olá, eu sou Gustavo Hammell Cosmai
 
 💻 **Estudante de Desenvolvimento de Sistemas** – ETEC Centro Paula Souza (2º semestre – EAD)  
 🌱 Aprendendo **Python, Java, React** 
